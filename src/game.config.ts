@@ -172,7 +172,7 @@ export const GameConfig : IGameConfig = {
                 alignment: 'left',
             },
             {
-                text: `© ${new Date().getFullYear()} Chen Shmilovich`,
+                text: `© ${new Date().getFullYear()} Taha Ababou`,
                 position: { x: 1250, y: 800 },
                 font: '20px Bookman',
                 color: 'white',
@@ -214,7 +214,7 @@ export const GameConfig : IGameConfig = {
                         alignment: 'left',
                     },
                     {
-                        text: `© ${new Date().getFullYear()} Chen Shmilovich`,
+                        text: `© ${new Date().getFullYear()} Taha Ababou`,
                         position: { x: 1250, y: 800 },
                         font: '20px Bookman',
                         color: 'white',

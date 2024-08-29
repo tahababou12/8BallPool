@@ -4,4 +4,4 @@
 
 README (TBA)
 
-Demo: https://8-ball-pool-iota.vercel.app/
+Demo: https://8ball-pool.vercel.app/
